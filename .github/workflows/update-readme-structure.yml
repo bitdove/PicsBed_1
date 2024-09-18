@@ -31,6 +31,6 @@ jobs:
           git config --local user.email "action@github.com"
           git add README.md
           git commit -m "Update directory structure in README"
-          git push https://<YOUR_PERSONAL_TOKEN>@github.com/MasonCodingHere/MasonHugoBlogPics1.git
+          git push
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
