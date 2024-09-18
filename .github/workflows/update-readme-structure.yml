@@ -1,4 +1,4 @@
-name: Update README with Directory Structure
+name: Update README with Directory Structure Links
 
 on:
   push:
@@ -13,12 +13,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate directory structure
+      - name: Generate clickable directory structure
         run: |
           echo "## Directory Structure" > structure.txt
-          echo "\`\`\`" >> structure.txt
-          tree -I ".git|node_modules" >> structure.txt
-          echo "\`\`\`" >> structure.txt
+          echo "" >> structure.txt
+          find . -type f | sed 's|^./||' | grep -v ".git" | while read filepath; do
+            filename=$(basename "$filepath")
+            echo "- [${filename}](${filepath})" >> structure.txt
+          done
 
       - name: Update README
         run: |
@@ -30,7 +32,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add README.md
-          git commit -m "Update directory structure in README"
+          git commit -m "Update directory structure with clickable links in README"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
