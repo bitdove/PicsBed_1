@@ -1,4 +1,4 @@
-name: Update README with Clickable Directory Structure
+name: Update README with Directory Structure
 
 on:
   push:
@@ -13,26 +13,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate clickable directory structure
+      - name: Generate directory structure
         run: |
           echo "## Directory Structure" > structure.txt
-          echo "" >> structure.txt
-          # Generate directory structure with correct links
-          find . -type f | sed 's|^./||' | grep -v ".git" | awk '
-          BEGIN { FS="/"; OFS="/"; }
-          {
-            link = "";
-            for (i = 1; i <= NF; i++) {
-              link = link $i OFS;
-              if (i == NF) {
-                print sprintf("%s- [%s](%s)", substr($0, 1, length($0) - length($i)), $i, link $i);
-              } else {
-                indent = "";
-                for (j = 1; j < i; j++) indent = indent "  ";
-                print sprintf("%s%s- [%s](%s)", indent, "", $i, link $i);
-              }
-            }
-          }' >> structure.txt
+          echo "\`\`\`" >> structure.txt
+          tree -I ".git|node_modules" >> structure.txt
+          echo "\`\`\`" >> structure.txt
 
       - name: Update README
         run: |
@@ -44,7 +30,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add README.md
-          git commit -m "Update directory structure with clickable links"
-          git push
+          git commit -m "Update directory structure in README"
+          git push https://<YOUR_PERSONAL_TOKEN>@github.com/MasonCodingHere/MasonHugoBlogPics1.git
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
