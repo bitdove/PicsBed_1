@@ -17,6 +17,7 @@ jobs:
         run: |
           echo "## Directory Structure" > structure.txt
           echo "" >> structure.txt
+          # Generate directory structure with correct links
           find . -type f | sed 's|^./||' | grep -v ".git" | awk '
           BEGIN { FS="/"; OFS="/"; }
           {
@@ -26,7 +27,9 @@ jobs:
               if (i == NF) {
                 print sprintf("%s- [%s](%s)", substr($0, 1, length($0) - length($i)), $i, link $i);
               } else {
-                print sprintf("%s  %s", substr($0, 1, length($0) - length($i) - length($i OFS)), "- [" $i "](" link $i ")");
+                indent = "";
+                for (j = 1; j < i; j++) indent = indent "  ";
+                print sprintf("%s%s- [%s](%s)", indent, "", $i, link $i);
               }
             }
           }' >> structure.txt
