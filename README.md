@@ -24,3 +24,13 @@
 
 1 directory, 2 files
 ```
+# Directory Structure
+```
+.
+├── BuildYourOwnLadder
+│   ├── choose_image.png
+│   └── select_type_and_location.png
+└── README.md
+
+1 directory, 3 files
+```
