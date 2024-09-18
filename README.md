@@ -7,9 +7,10 @@
 │   ├── choose_plan.png
 │   ├── deploy.png
 │   ├── order.png
+│   ├── pingcheck.png
 │   ├── select_type_and_location.png
 │   └── server_setting.png
 └── README.md
 
-1 directory, 8 files
+1 directory, 9 files
 ```
