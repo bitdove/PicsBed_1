@@ -22,8 +22,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/## Directory Structure/,$d' README.md
-          cat structure.txt >> README.md
+          cat structure.txt > README.md
 
       - name: Commit changes
         run: |
