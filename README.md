@@ -6,6 +6,7 @@
 │   ├── changeport.png
 │   ├── choose_image.png
 │   ├── choose_plan.png
+│   ├── delete_port22.png
 │   ├── deploy.png
 │   ├── order.png
 │   ├── pingcheck.png
@@ -13,5 +14,5 @@
 │   └── server_setting.png
 └── README.md
 
-1 directory, 10 files
+1 directory, 11 files
 ```
