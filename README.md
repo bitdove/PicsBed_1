@@ -45,3 +45,15 @@
 
 1 directory, 4 files
 ```
+# Directory Structure
+```
+.
+├── BuildYourOwnLadder
+│   ├── additional_feature.png
+│   ├── choose_image.png
+│   ├── choose_plan.png
+│   └── select_type_and_location.png
+└── README.md
+
+1 directory, 5 files
+```
