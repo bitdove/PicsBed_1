@@ -1,4 +1,4 @@
-name: Update README with Directory Structure Links
+name: Update README with Clickable Directory Structure
 
 on:
   push:
@@ -17,10 +17,19 @@ jobs:
         run: |
           echo "## Directory Structure" > structure.txt
           echo "" >> structure.txt
-          find . -type f | sed 's|^./||' | grep -v ".git" | while read filepath; do
-            filename=$(basename "$filepath")
-            echo "- [${filename}](${filepath})" >> structure.txt
-          done
+          find . -type f | sed 's|^./||' | grep -v ".git" | awk '
+          BEGIN { FS="/"; OFS="/"; }
+          {
+            link = "";
+            for (i = 1; i <= NF; i++) {
+              link = link $i OFS;
+              if (i == NF) {
+                print sprintf("%s- [%s](%s)", substr($0, 1, length($0) - length($i)), $i, link $i);
+              } else {
+                print sprintf("%s  %s", substr($0, 1, length($0) - length($i) - length($i OFS)), "- [" $i "](" link $i ")");
+              }
+            }
+          }' >> structure.txt
 
       - name: Update README
         run: |
@@ -32,7 +41,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add README.md
-          git commit -m "Update directory structure with clickable links in README"
+          git commit -m "Update directory structure with clickable links"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
