@@ -15,7 +15,7 @@ jobs:
 
       - name: Generate directory structure
         run: |
-          echo "## Directory Structure" > structure.txt
+          echo "# Directory Structure" > structure.txt
           echo "\`\`\`" >> structure.txt
           tree -I ".git|node_modules" >> structure.txt
           echo "\`\`\`" >> structure.txt
