@@ -1,0 +1,36 @@
+name: Update README with Directory Structure
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate directory structure
+        run: |
+          echo "## Directory Structure" > structure.txt
+          echo "\`\`\`" >> structure.txt
+          tree -I ".git|node_modules" >> structure.txt
+          echo "\`\`\`" >> structure.txt
+
+      - name: Update README
+        run: |
+          sed -i '/## Directory Structure/,$d' README.md
+          cat structure.txt >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add README.md
+          git commit -m "Update directory structure in README"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
