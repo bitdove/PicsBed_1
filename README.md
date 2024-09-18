@@ -3,6 +3,7 @@
 .
 ├── BuildYourOwnLadder
 │   ├── additional_feature.png
+│   ├── addsudo.png
 │   ├── banpasswdlogin.png
 │   ├── changeport.png
 │   ├── choose_image.png
@@ -15,5 +16,5 @@
 │   └── server_setting.png
 └── README.md
 
-1 directory, 12 files
+1 directory, 13 files
 ```
