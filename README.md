@@ -13,8 +13,9 @@
 │   ├── order.png
 │   ├── pingcheck.png
 │   ├── select_type_and_location.png
-│   └── server_setting.png
+│   ├── server_setting.png
+│   └── uuidgennerate.png
 └── README.md
 
-1 directory, 13 files
+1 directory, 14 files
 ```
