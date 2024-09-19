@@ -31,10 +31,8 @@
     ├── MergeSort.png
     ├── Performance.png
     ├── ShellSort.png
-    ├── array.png
-    ├── deque.png
     ├── proformance2.png
     └── sortAlgoClassify.png
 
-3 directories, 31 files
+3 directories, 29 files
 ```
