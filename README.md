@@ -15,8 +15,9 @@
 │   ├── pingcheck.png
 │   ├── select_type_and_location.png
 │   ├── server_setting.png
+│   ├── startxray.png
 │   └── uuidgennerate.png
 └── README.md
 
-1 directory, 15 files
+1 directory, 16 files
 ```
