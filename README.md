@@ -13,6 +13,7 @@
 │   ├── delete_port22.png
 │   ├── deploy.png
 │   ├── loginaccount.png
+│   ├── logincf.png
 │   ├── openport12345.png
 │   ├── order.png
 │   ├── pingcheck.png
@@ -23,5 +24,5 @@
 │   └── workmode.png
 └── README.md
 
-1 directory, 20 files
+1 directory, 21 files
 ```
