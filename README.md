@@ -10,6 +10,7 @@
 │   ├── choose_plan.png
 │   ├── delete_port22.png
 │   ├── deploy.png
+│   ├── openport12345.png
 │   ├── order.png
 │   ├── pingcheck.png
 │   ├── select_type_and_location.png
@@ -17,5 +18,5 @@
 │   └── uuidgennerate.png
 └── README.md
 
-1 directory, 14 files
+1 directory, 15 files
 ```
