@@ -28,9 +28,11 @@
 │   └── DefaultPostImg1.jpg
 ├── README.md
 └── SortAlgorithms
+    ├── MergeSort.png
     ├── Performance.png
+    ├── ShellSort.png
     ├── proformance2.png
     └── sortAlgoClassify.png
 
-3 directories, 27 files
+3 directories, 29 files
 ```
