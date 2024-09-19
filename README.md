@@ -6,6 +6,7 @@
 │   ├── addsudo.png
 │   ├── banpasswdlogin.png
 │   ├── changeport.png
+│   ├── choose.png
 │   ├── choose_image.png
 │   ├── choose_plan.png
 │   ├── delete_port22.png
@@ -19,5 +20,5 @@
 │   └── uuidgennerate.png
 └── README.md
 
-1 directory, 16 files
+1 directory, 17 files
 ```
