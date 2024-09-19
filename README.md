@@ -28,6 +28,10 @@
 │   ├── array.png
 │   ├── deque.png
 │   ├── deque_physical_structure.png
+│   ├── forward_list.png
+│   ├── hashtable.jpg
+│   ├── heap.png
+│   ├── list.png
 │   ├── priority_queue.png
 │   ├── queue.png
 │   ├── stack.png
@@ -42,5 +46,5 @@
     ├── proformance2.png
     └── sortAlgoClassify.png
 
-4 directories, 36 files
+4 directories, 40 files
 ```
