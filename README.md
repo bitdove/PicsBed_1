@@ -8,6 +8,7 @@
 │   ├── banpasswdlogin.png
 │   ├── changeport.png
 │   ├── choose.png
+│   ├── choose46priority.png
 │   ├── choose_image.png
 │   ├── choose_plan.png
 │   ├── delete_port22.png
@@ -24,5 +25,5 @@
 │   └── workmode.png
 └── README.md
 
-1 directory, 21 files
+1 directory, 22 files
 ```
