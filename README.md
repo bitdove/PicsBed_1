@@ -24,7 +24,9 @@
 │   ├── uuidgennerate.png
 │   ├── warpinter.png
 │   └── workmode.png
+├── DefaultImg
+│   └── DefaultPostImg1.jpg
 └── README.md
 
-1 directory, 23 files
+2 directories, 24 files
 ```
