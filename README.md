@@ -18,8 +18,9 @@
 │   ├── select_type_and_location.png
 │   ├── server_setting.png
 │   ├── startxray.png
-│   └── uuidgennerate.png
+│   ├── uuidgennerate.png
+│   └── workmode.png
 └── README.md
 
-1 directory, 18 files
+1 directory, 19 files
 ```
