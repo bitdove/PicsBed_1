@@ -27,6 +27,7 @@
 ├── DataStructures
 │   ├── array.png
 │   ├── deque.png
+│   ├── deque_physical_structure.png
 │   ├── priority_queue.png
 │   ├── queue.png
 │   ├── stack.png
@@ -41,5 +42,5 @@
     ├── proformance2.png
     └── sortAlgoClassify.png
 
-4 directories, 35 files
+4 directories, 36 files
 ```
