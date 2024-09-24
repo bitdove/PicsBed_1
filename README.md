@@ -1,4 +1,4 @@
-https://img.shields.io/github/repo-size/MasonCoingHere/MasonHugoBlogPics1
+![Repo Size](https://img.shields.io/github/repo-size/MasonCoingHere/MasonHugoBlogPics1)
 # Directory Structure
 ```
 .
