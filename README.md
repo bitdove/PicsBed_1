@@ -40,12 +40,14 @@
 ├── DefaultImg
 │   └── DefaultPostImg1.jpg
 ├── README.md
-└── SortAlgorithms
-    ├── MergeSort.png
-    ├── Performance.png
-    ├── ShellSort.png
-    ├── proformance2.png
-    └── sortAlgoClassify.png
+├── SortAlgorithms
+│   ├── MergeSort.png
+│   ├── Performance.png
+│   ├── ShellSort.png
+│   ├── proformance2.png
+│   └── sortAlgoClassify.png
+└── avatars
+    └── stock-vector-male-avatar-profile-picture.jpeg
 
-4 directories, 40 files
+5 directories, 41 files
 ```
