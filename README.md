@@ -1,3 +1,4 @@
+https://img.shields.io/github/repo-size/MasonCoingHere/MasonHugoBlogPics1
 # Directory Structure
 ```
 .
