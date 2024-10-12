@@ -51,7 +51,8 @@
 └── cpp-multiple-inheritance
     ├── Diamond-inheritance.png
     ├── normal-multi-inher-memory-structure.png
+    ├── virtual-inhe-beauty-fish.png
     └── virtual-inhere.png
 
-6 directories, 44 files
+6 directories, 45 files
 ```
