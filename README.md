@@ -46,8 +46,10 @@
 │   ├── ShellSort.png
 │   ├── proformance2.png
 │   └── sortAlgoClassify.png
-└── avatars
-    └── stock-vector-male-avatar-profile-picture.jpeg
+├── avatars
+│   └── stock-vector-male-avatar-profile-picture.jpeg
+└── cpp-multiple-inheritance
+    └── Diamond-inheritance.png
 
-5 directories, 41 files
+6 directories, 42 files
 ```
