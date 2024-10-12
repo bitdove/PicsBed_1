@@ -50,7 +50,8 @@
 │   └── stock-vector-male-avatar-profile-picture.jpeg
 └── cpp-multiple-inheritance
     ├── Diamond-inheritance.png
-    └── normal-multi-inher-memory-structure.png
+    ├── normal-multi-inher-memory-structure.png
+    └── virtual-inhere.png
 
-6 directories, 43 files
+6 directories, 44 files
 ```
