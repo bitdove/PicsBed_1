@@ -74,6 +74,7 @@
 ├── Threads-sync
 │   ├── code-of-pro-con.png
 │   ├── execute-mix.png
+│   ├── mutex.png
 │   └── productor-consumer-model.png
 ├── avatars
 │   └── stock-vector-male-avatar-profile-picture.jpeg
@@ -97,5 +98,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 80 files
+14 directories, 81 files
 ```
