@@ -78,7 +78,8 @@
 │   ├── cost-of-read-write-lock.png
 │   ├── execute-mix.png
 │   ├── mutex.png
-│   └── productor-consumer-model.png
+│   ├── productor-consumer-model.png
+│   └── sem.png
 ├── avatars
 │   └── stock-vector-male-avatar-profile-picture.jpeg
 ├── cpp-multiple-inheritance
@@ -101,5 +102,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 84 files
+14 directories, 85 files
 ```
