@@ -65,7 +65,8 @@
 └── tcp-introduction-deeper
     ├── TCP-satus-machine.png
     ├── closing-same-time.png
+    ├── half-closing.png
     └── opening-same-time.png
 
-10 directories, 54 files
+10 directories, 55 files
 ```
