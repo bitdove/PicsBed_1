@@ -99,6 +99,7 @@
 │   ├── after-fork.png
 │   ├── from-father-to-son.png
 │   ├── mmap.png
+│   ├── princple.png
 │   ├── r.png
 │   ├── w.png
 │   └── xinhaonum.png
@@ -115,5 +116,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 95 files
+17 directories, 96 files
 ```
