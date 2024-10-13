@@ -42,7 +42,8 @@
 │   ├── DHCPDISCOVER.png
 │   ├── DHCPNAK.png
 │   ├── DHCPOFFER.png
-│   └── DHCPREQUEST.png
+│   ├── DHCPREQUEST.png
+│   └── DHCPREQUEST_2.png
 ├── DataStructures
 │   ├── array.png
 │   ├── deque.png
@@ -86,5 +87,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-12 directories, 71 files
+12 directories, 72 files
 ```
