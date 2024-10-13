@@ -96,6 +96,7 @@
 │   ├── Simplest_Socket.png
 │   └── princeple-of-comm.png
 ├── interprocess-communicatiom
+│   ├── IPC-slow.png
 │   ├── after-fork.png
 │   ├── from-father-to-son.png
 │   ├── mmap.png
@@ -116,5 +117,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 96 files
+17 directories, 97 files
 ```
