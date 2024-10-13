@@ -53,9 +53,11 @@
 │   ├── normal-multi-inher-memory-structure.png
 │   ├── virtual-inhe-beauty-fish.png
 │   └── virtual-inhere.png
+├── cpp-object-model
+│   └── cpp-object-model.png
 └── helloworld-on-network-programming
     ├── Simplest_Socket.png
     └── princeple-of-comm.png
 
-7 directories, 47 files
+8 directories, 48 files
 ```
