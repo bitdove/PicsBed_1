@@ -73,6 +73,7 @@
 │   └── sortAlgoClassify.png
 ├── Threads-sync
 │   ├── code-of-pro-con.png
+│   ├── cost-of-read-write-lock.png
 │   ├── execute-mix.png
 │   ├── mutex.png
 │   └── productor-consumer-model.png
@@ -98,5 +99,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 81 files
+14 directories, 82 files
 ```
