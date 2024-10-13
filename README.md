@@ -72,6 +72,7 @@
 │   ├── proformance2.png
 │   └── sortAlgoClassify.png
 ├── Threads-sync
+│   ├── execute-mix.png
 │   └── productor-consumer-model.png
 ├── avatars
 │   └── stock-vector-male-avatar-profile-picture.jpeg
@@ -95,5 +96,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 78 files
+14 directories, 79 files
 ```
