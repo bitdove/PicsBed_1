@@ -64,7 +64,8 @@
 │   └── slide-window-2.png
 └── tcp-introduction-deeper
     ├── TCP-satus-machine.png
+    ├── closing-same-time.png
     └── opening-same-time.png
 
-10 directories, 53 files
+10 directories, 54 files
 ```
