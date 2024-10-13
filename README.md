@@ -96,7 +96,8 @@
 │   ├── Simplest_Socket.png
 │   └── princeple-of-comm.png
 ├── interprocess-communicatiom
-│   └── after-fork.png
+│   ├── after-fork.png
+│   └── from-father-to-son.png
 ├── process-scheduling
 │   ├── Round-Robin-Scheduling.png
 │   └── process-states.png
@@ -110,5 +111,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 90 files
+17 directories, 91 files
 ```
