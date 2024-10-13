@@ -74,6 +74,7 @@
 ├── Threads-sync
 │   ├── Mutex Overhead.png
 │   ├── code-of-pro-con.png
+│   ├── cond.png
 │   ├── cost-of-read-write-lock.png
 │   ├── execute-mix.png
 │   ├── mutex.png
@@ -100,5 +101,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 83 files
+14 directories, 84 files
 ```
