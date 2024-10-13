@@ -82,6 +82,8 @@
 │   └── sem.png
 ├── avatars
 │   └── stock-vector-male-avatar-profile-picture.jpeg
+├── basic-of-process-and-thread
+│   └── virtual-memory-space.jpg
 ├── cpp-multiple-inheritance
 │   ├── Diamond-inheritance.png
 │   ├── normal-multi-inher-memory-structure.png
@@ -102,5 +104,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-14 directories, 85 files
+15 directories, 86 files
 ```
