@@ -46,6 +46,8 @@
 │   ├── DHCPOFFER.png
 │   ├── DHCPREQUEST.png
 │   └── DHCPREQUEST_2.png
+├── DNS-protocol
+│   └── hier-structure.png
 ├── DataStructures
 │   ├── array.png
 │   ├── deque.png
@@ -89,5 +91,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-12 directories, 74 files
+13 directories, 75 files
 ```
