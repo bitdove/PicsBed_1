@@ -71,6 +71,8 @@
 │   ├── ShellSort.png
 │   ├── proformance2.png
 │   └── sortAlgoClassify.png
+├── Threads-sync
+│   └── productor-consumer-model.png
 ├── avatars
 │   └── stock-vector-male-avatar-profile-picture.jpeg
 ├── cpp-multiple-inheritance
@@ -93,5 +95,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-13 directories, 77 files
+14 directories, 78 files
 ```
