@@ -39,6 +39,7 @@
 ├── DHCP-protocol
 │   ├── DHCP-message.png
 │   ├── DHCP-procedure.jpeg
+│   ├── DHCPDISCOVER.png
 │   ├── DHCPNAK.png
 │   └── DHCPREQUEST.png
 ├── DataStructures
@@ -84,5 +85,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-12 directories, 69 files
+12 directories, 70 files
 ```
