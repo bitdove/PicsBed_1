@@ -102,6 +102,7 @@
 │   ├── mmap.png
 │   ├── princple.png
 │   ├── r.png
+│   ├── shared-memory-fast.png
 │   ├── w.png
 │   └── xinhaonum.png
 ├── process-scheduling
@@ -117,5 +118,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 97 files
+17 directories, 98 files
 ```
