@@ -37,7 +37,8 @@
 │   ├── warpinter.png
 │   └── workmode.png
 ├── DHCP-protocol
-│   └── DHCP-message.png
+│   ├── DHCP-message.png
+│   └── DHCP-procedure.jpeg
 ├── DataStructures
 │   ├── array.png
 │   ├── deque.png
@@ -81,5 +82,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-12 directories, 66 files
+12 directories, 67 files
 ```
