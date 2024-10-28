@@ -1,4 +1,4 @@
-![Repo Size](https://img.shields.io/github/repo-size/MasonCodingHere/PicsBed_1)
+![Repo Size](https://img.shields.io/github/repo-size/bitdove/PicsBed_1)
 # Directory Structure
 ```
 .
