@@ -81,6 +81,7 @@
 │   ├── productor-consumer-model.png
 │   └── sem.png
 ├── avatars
+│   ├── github_avatar.png
 │   └── stock-vector-male-avatar-profile-picture.jpeg
 ├── basic-of-process-and-thread
 │   ├── status-of-process.png
@@ -118,5 +119,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 98 files
+17 directories, 99 files
 ```
