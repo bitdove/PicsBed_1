@@ -64,6 +64,8 @@
 │   └── vector.png
 ├── DefaultImg
 │   └── DefaultPostImg1.jpg
+├── HugoBlogCategories
+│   └── Diary-Essays.png
 ├── README.md
 ├── SortAlgorithms
 │   ├── MergeSort.png
@@ -119,5 +121,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-17 directories, 99 files
+18 directories, 100 files
 ```
