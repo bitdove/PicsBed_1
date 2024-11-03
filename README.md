@@ -1,3 +1,4 @@
+![Repo Size](https://img.shields.io/github/repo-size/bitdove/PicsBed_1)
 # Directory Structure
 ```
 .
