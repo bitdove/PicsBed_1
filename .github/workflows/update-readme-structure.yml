@@ -15,7 +15,8 @@ jobs:
 
       - name: Generate directory structure
         run: |
-          echo "# Directory Structure" > structure.txt
+          echo "![Repo Size](https://img.shields.io/github/repo-size/bitdove/PicsBed_1)" > structure.txt
+          echo "# Directory Structure" >> structure.txt
           echo "\`\`\`" >> structure.txt
           tree -I ".git|node_modules|structure.txt" >> structure.txt
           echo "\`\`\`" >> structure.txt
