@@ -99,8 +99,7 @@
 ├── cpp-object-model
 │   └── cpp-object-model.png
 ├── friends_cover
-│   ├── Friends.jpeg
-│   └── friends.txt
+│   └── Friends.jpeg
 ├── helloworld-on-network-programming
 │   ├── Simplest_Socket.png
 │   └── princeple-of-comm.png
@@ -127,5 +126,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-19 directories, 105 files
+19 directories, 104 files
 ```
