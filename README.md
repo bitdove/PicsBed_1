@@ -98,6 +98,8 @@
 │   └── virtual-inhere.png
 ├── cpp-object-model
 │   └── cpp-object-model.png
+├── friends_cover
+│   └── friends.jpeg
 ├── helloworld-on-network-programming
 │   ├── Simplest_Socket.png
 │   └── princeple-of-comm.png
@@ -124,5 +126,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-18 directories, 103 files
+19 directories, 104 files
 ```
