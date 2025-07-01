@@ -117,6 +117,7 @@
 ├── nwg150
 │   ├── 12-14-17扳手.png
 │   ├── 12mm烟斗套筒扳手.png
+│   ├── 530清洁剂.png
 │   ├── NWG150.png
 │   ├── 加油漏斗.png
 │   ├── 接油盆.png
@@ -136,5 +137,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-21 directories, 113 files
+21 directories, 114 files
 ```
