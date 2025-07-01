@@ -120,6 +120,7 @@
 │   ├── NWG150.png
 │   ├── 加油漏斗.png
 │   ├── 接油盆.png
+│   ├── 注射器.png
 │   ├── 灰壳5w40.png
 │   └── 螺丝定位记号笔.png
 ├── process-scheduling
@@ -135,5 +136,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-21 directories, 112 files
+21 directories, 113 files
 ```
