@@ -118,7 +118,8 @@
 │   ├── 12-14-17扳手.png
 │   ├── 12mm烟斗套筒扳手.png
 │   ├── NWG150.png
-│   └── 灰壳5w40.png
+│   ├── 灰壳5w40.png
+│   └── 螺丝定位记号笔.png
 ├── process-scheduling
 │   ├── Round-Robin-Scheduling.png
 │   └── process-states.png
@@ -132,5 +133,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-21 directories, 109 files
+21 directories, 110 files
 ```
