@@ -114,7 +114,6 @@
 │   ├── shared-memory-fast.png
 │   ├── w.png
 │   └── xinhaonum.png
-├── nwg150NWG150.png
 ├── process-scheduling
 │   ├── Round-Robin-Scheduling.png
 │   └── process-states.png
@@ -128,5 +127,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-20 directories, 106 files
+20 directories, 105 files
 ```
