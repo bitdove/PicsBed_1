@@ -98,6 +98,8 @@
 │   └── virtual-inhere.png
 ├── cpp-object-model
 │   └── cpp-object-model.png
+├── diary202508
+│   └── 便携充气泵.png
 ├── friends_cover
 │   ├── englishpod_cover.png
 │   └── friends.jpeg
@@ -137,5 +139,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-21 directories, 114 files
+22 directories, 115 files
 ```
