@@ -99,7 +99,8 @@
 ├── cpp-object-model
 │   └── cpp-object-model.png
 ├── diary202508
-│   └── 便携充气泵.png
+│   ├── 便携充气泵.png
+│   └── 铭瑄挑战者H610M.png
 ├── friends_cover
 │   ├── englishpod_cover.png
 │   └── friends.jpeg
@@ -139,5 +140,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-22 directories, 115 files
+22 directories, 116 files
 ```
