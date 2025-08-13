@@ -133,6 +133,7 @@
 ├── re-config-VPS
 │   ├── Android-config.jpg
 │   ├── Debian10.png
+│   ├── Windows-V2RayN.png
 │   ├── generate-uuid.png
 │   ├── generate-x25519.png
 │   └── xray-version.png
@@ -146,5 +147,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-23 directories, 121 files
+23 directories, 122 files
 ```
