@@ -131,7 +131,8 @@
 │   ├── Round-Robin-Scheduling.png
 │   └── process-states.png
 ├── re-config-VPS
-│   └── Debian10.png
+│   ├── Debian10.png
+│   └── xray-version.png
 ├── tcp-introduction
 │   ├── TCP-header.png
 │   ├── slide-window-1.png
@@ -142,5 +143,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-23 directories, 117 files
+23 directories, 118 files
 ```
