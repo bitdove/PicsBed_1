@@ -133,6 +133,7 @@
 ├── re-config-VPS
 │   ├── Debian10.png
 │   ├── generate-uuid.png
+│   ├── generate-x25519.png
 │   └── xray-version.png
 ├── tcp-introduction
 │   ├── TCP-header.png
@@ -144,5 +145,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-23 directories, 119 files
+23 directories, 120 files
 ```
