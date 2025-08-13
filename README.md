@@ -131,6 +131,7 @@
 │   ├── Round-Robin-Scheduling.png
 │   └── process-states.png
 ├── re-config-VPS
+│   ├── Android-config.jpg
 │   ├── Debian10.png
 │   ├── generate-uuid.png
 │   ├── generate-x25519.png
@@ -145,5 +146,5 @@
     ├── half-closing.png
     └── opening-same-time.png
 
-23 directories, 120 files
+23 directories, 121 files
 ```
